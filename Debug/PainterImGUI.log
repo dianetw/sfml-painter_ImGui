@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Diane\source\repos\PainterImGUI\main.cpp(136,78): warning C4244: '引數': 將 'float' 轉換為 'sf::Uint8'，由於類型不同，可能導致資料遺失
+C:\Users\Diane\source\repos\PainterImGUI\main.cpp(136,64): warning C4244: '引數': 將 'float' 轉換為 'sf::Uint8'，由於類型不同，可能導致資料遺失
+C:\Users\Diane\source\repos\PainterImGUI\main.cpp(136,50): warning C4244: '引數': 將 'float' 轉換為 'sf::Uint8'，由於類型不同，可能導致資料遺失
+  PainterImGUI.vcxproj -> C:\Users\Diane\source\repos\PainterImGUI\Debug\PainterImGUI.exe

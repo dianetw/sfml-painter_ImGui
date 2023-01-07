@@ -1,0 +1,11 @@
+C:\Users\Diane\source\repos\PainterImGUI\Debug\PainterImGUI.vcxproj.CopyComplete
+C:\Users\Diane\source\repos\PainterImGUI\Debug\PainterImGUI.exe
+C:\Users\Diane\source\repos\PainterImGUI\Debug\sfml-graphics-d-2.dll
+C:\Users\Diane\source\repos\PainterImGUI\Debug\sfml-window-d-2.dll
+C:\Users\Diane\source\repos\PainterImGUI\Debug\sfml-system-d-2.dll
+C:\Users\Diane\source\repos\PainterImGUI\Debug\freetyped.dll
+C:\Users\Diane\source\repos\PainterImGUI\Debug\zlibd1.dll
+C:\Users\Diane\source\repos\PainterImGUI\Debug\bz2d.dll
+C:\Users\Diane\source\repos\PainterImGUI\Debug\libpng16d.dll
+C:\Users\Diane\source\repos\PainterImGUI\Debug\brotlidec.dll
+C:\Users\Diane\source\repos\PainterImGUI\Debug\brotlicommon.dll
